@@ -1,0 +1,10 @@
+/Users/samuel.kelemen/Code/pipelines/bin/Debug/netcoreapp2.2/pipelines.deps.json
+/Users/samuel.kelemen/Code/pipelines/bin/Debug/netcoreapp2.2/pipelines.runtimeconfig.json
+/Users/samuel.kelemen/Code/pipelines/bin/Debug/netcoreapp2.2/pipelines.runtimeconfig.dev.json
+/Users/samuel.kelemen/Code/pipelines/bin/Debug/netcoreapp2.2/pipelines.dll
+/Users/samuel.kelemen/Code/pipelines/bin/Debug/netcoreapp2.2/pipelines.pdb
+/Users/samuel.kelemen/Code/pipelines/obj/Debug/netcoreapp2.2/pipelines.fsprojAssemblyReference.cache
+/Users/samuel.kelemen/Code/pipelines/obj/Debug/netcoreapp2.2/pipelines.AssemblyInfoInputs.cache
+/Users/samuel.kelemen/Code/pipelines/obj/Debug/netcoreapp2.2/pipelines.AssemblyInfo.fs
+/Users/samuel.kelemen/Code/pipelines/obj/Debug/netcoreapp2.2/pipelines.dll
+/Users/samuel.kelemen/Code/pipelines/obj/Debug/netcoreapp2.2/pipelines.pdb
